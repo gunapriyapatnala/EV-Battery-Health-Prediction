@@ -61,3 +61,11 @@ inside the `Data` folder with the filename
 `battery_cycle_level_dataset_CLEAN_FINAL.csv`.
 
 The original dataset source will be added once verified.
+
+## Dashboard Screenshots
+
+### Dashboard Home Page
+![Dashboard Home Page](screenshots/dashboard.png)
+
+### Battery Analysis Graph
+![Battery Analysis Graph](screenshots/graphofbatteries.png)
