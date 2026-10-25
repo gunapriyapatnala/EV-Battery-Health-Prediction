@@ -1,4 +1,4 @@
-#EV Battery Intelligence & Predictive Health System
+# EV Battery Intelligence & Predictive Health System
 Machine Learning-Based State of Health (SoH) and Remaining Useful Life (RUL) Prediction
 ##Project Overview
 This project uses machine learning to analyze Electric Vehicle (EV) battery performance and predict battery health and remaining useful life. It helps understand battery degradation patterns using historical battery data.
@@ -46,3 +46,18 @@ Through this project, I gained practical experience in data preprocessing, explo
 
 ## Project Status
 Developed as an academic machine learning project. Dataset source and reproducibility instructions are being documented.
+
+## Dataset Information
+
+This project uses a cleaned battery cycle-level dataset
+to predict State of Health (SoH) and Remaining Useful Life (RUL).
+
+The dataset includes cycle number, voltage, temperature,
+capacity, SoH, and RUL.
+
+The dataset is not included in this repository.
+To run the application, place the required CSV file
+inside the `Data` folder with the filename
+`battery_cycle_level_dataset_CLEAN_FINAL.csv`.
+
+The original dataset source will be added once verified.
